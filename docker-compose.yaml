@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  frontend:
+    image: mahmoudyahia/bidayya-frontend-image:latest
+    container_name: frontend_container
+    ports:
+      - '3000:3000' # Expose container port 3000 to host port 3000
+    extra_hosts:
+      - 'host.docker.internal:172.17.0.1'
+    environment:
+      - MODE=Prod    
+    networks:
+      - stack_comm
+      - private_network
+
+networks:
+  private_network:
+  stack_comm:
+    external: true
