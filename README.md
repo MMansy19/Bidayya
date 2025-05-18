@@ -1,13 +1,8 @@
 # Bidayya
 
--  **Role**: Frontend Developer  
--  **Tech Stack**: React, TypeScript, Figma for UI Design  
--  **Duration**: 100 hours  
-
-## Project Overview
-
 Bidayya is a modern web platform designed with a focus on seamless API integration and user-friendly design. Built using **React** and **TypeScript**, the project emphasizes responsive and dynamic layouts that enhance the overall user experience.
 
+## [Live Demo](https://bidayya.com)
 ## [Video Demo](https://drive.google.com/file/d/1FmvVYhHYj1IXrydb9UICKLm2YkPrU7n0/view?usp=sharing)
 ## [Design on Figma](https://www.figma.com/design/VV5BG6fIhB9HenK2CfaHEE/Bidayya_V1-(Copy)?node-id=1-2664&node-type=frame&t=UiO7c7fJf8FLad7W-0)
 
