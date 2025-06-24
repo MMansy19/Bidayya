@@ -4,7 +4,7 @@ Bidayya is a modern web platform designed with a focus on seamless API integrati
 
 ## [Live Demo](https://bidayya.com)
 ## [Video Demo](https://drive.google.com/file/d/1FmvVYhHYj1IXrydb9UICKLm2YkPrU7n0/view?usp=sharing)
-## [Design on Figma](https://www.figma.com/design/VV5BG6fIhB9HenK2CfaHEE/Bidayya_V1-(Copy)?node-id=1-2664&node-type=frame&t=UiO7c7fJf8FLad7W-0)
+## [Design on Figma](https://www.figma.com/design/pBrlTwffNtFdkEkf0Cnd0W/Bidayya_Mansy)
 
 ### Key Features:
 - Responsive design with optimized performance.
